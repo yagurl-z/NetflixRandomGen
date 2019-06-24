@@ -1,0 +1,29 @@
+h2{
+  font-family: 'Muli', sans-serif;
+  color: white;
+}
+body{
+  background-image: url("https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-oH-ficRRd6DtKIGIf6ZaFAh7WK-4roMg_tsAZG5O7vSztlDSr_75QdUnN2LUqc2_OstHGQ2SvOzuBlPC52QM-g/messages/@.id==AD8qKNVIDsT1XQ0yWgs3GMgkQFc/content/parts/@.id==2.2/thumbnail?appId=YMailNorrinLaunch&downloadWhenThumbnailFails=true&pid=2.2") ;
+  background-size: 100%;
+
+}
+.remote{
+  margin-top: 20%;
+  margin-left: 85%;
+}
+h1{
+  color: white;
+  font-family: "Muli", sans-serif;
+  font-size: 30px;
+
+}
+
+#box{
+  position: absolute;
+  left: 32%;
+  top: 30%;
+
+}
+.tv{
+  position: absolute;
+  left: 25%
